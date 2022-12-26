@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://pt.memedroid.com/memes/random" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShellTux&icon=5&color=3)](https://visitcount.itsvg.in)
