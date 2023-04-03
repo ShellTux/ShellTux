@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shelltux" alt="shelltux" /></a> </p>
 
+- 👨‍🎓 I’m currently Finishing my **Bachelor's Degree in Informatics Engineering**
+
 - 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShellTux?tab=repositories](https://github.com/ShellTux?tab=repositories)
