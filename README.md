@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I’m currently Finishing my **Bachelor's Degree in Informatics Engineering**
 
-- 🌱 I’m currently learning **C**, **Rust**, **Pascal**
+- 🌱 I’m currently learning **C**, **Rust**, **Pascal**, **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShellTux?tab=repositories](https://github.com/ShellTux?tab=repositories)
 
