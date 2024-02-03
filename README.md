@@ -7,11 +7,11 @@
 
 - 👨‍🎓 I’m currently Finishing my **Bachelor's Degree in Informatics Engineering**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++**, **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShellTux?tab=repositories](https://github.com/ShellTux?tab=repositories)
 
-- 💬 Ask me about **Python, Javascript, C, Linux, Typescript**
+- 💬 Ask me about **Python, Javascript, C, Linux, Typescript, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
